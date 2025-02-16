@@ -2,13 +2,13 @@
   "PAGE_ACCESS_TOKEN": "",
   "VERIFY_TOKEN": "WEBHOOK",
   "ADMINS": [
-    ""
+    "100051869042398"
   ],
-  "BOTNAME": "BOTNAME",
+  "BOTNAME": "RIFAT-V3",
   "PREFIX": "/",
   "THEME_SETUP": {
     "THEME": "Fiery",
-    "ADMIN": "Your Name",
+    "ADMIN": "Mueid Mursalin Rifat",
     "TITLE": "PAGEBOT",
     "HTML": [
       "#CE2F16",
